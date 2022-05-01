@@ -61,7 +61,8 @@ int main()
 		sonuc = sayi1 / sayi2;
 		printf("%d",sonuc);
 		break;
-		
+		default:
+			printf("Error!");
 		
 		
 	}
